@@ -1,0 +1,13 @@
+body{
+    background-color:rgba(74, 5, 255, 0.5);
+}
+ul li{
+    display: inline;
+}
+
+#title2{
+    border: 2px solid red;
+    width:  500px;
+    height: 100vh;
+}
+/* https://developer.mozilla.org/ru/docs/Web/CSS/Comments */
